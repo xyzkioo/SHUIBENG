@@ -1,0 +1,20 @@
+{
+  "states": {
+    "0": "idle",
+    "1": "moving",
+    "2": "at_target",
+    "3": "timeout",
+    "4": "direction_fault",
+    "5": "tracking_fault",
+    "6": "limit_fault"
+  },
+  "samples_moving": 54,
+  "peak_observed_rpm": 204.54545454545456,
+  "peak_pwm": 141.8350830078125,
+  "moving_duration_s": 2.655999999999949,
+  "state_after_move": 2,
+  "travel_revs_after_2s": -4.989669421487603,
+  "final_error_revs": -0.010330566689987553,
+  "final_pwm": 0.0,
+  "final_ccr": 0
+}

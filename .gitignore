@@ -1,0 +1,9 @@
+build
+mx.scratch
+!.settings
+.tools/
+tmp/
+vofa/bridge.log
+vofa/bridge-error.log
+vofa/bridge-status.json
+vofa/bridge.pid

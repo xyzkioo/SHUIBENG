@@ -1,0 +1,22 @@
+{
+  "controller": "x4 encoder; ramped reference + feedforward + PI; 50ms",
+  "gains_readback": [
+    1.0,
+    0.02500000037252903,
+    0.0
+  ],
+  "feedforward_pwm_per_rpm": 0.72,
+  "ramp_rpm_per_s": 500,
+  "target_rpm": 500,
+  "samples": 400,
+  "initial_speed_rpm": 0.0,
+  "time_to_475_rpm_s": 1.0,
+  "peak_rpm": 514.4628295898438,
+  "tail_mean_rpm": 499.30784439086915,
+  "tail_min_rpm": 489.66943359375,
+  "tail_max_rpm": 508.26446533203125,
+  "tail_pwm_mean": 363.89146072387695,
+  "settling_in_3pct_s": 1.0,
+  "timestamp_basis": "nominal 50ms frame period, host arrivals also saved",
+  "accepted": true
+}

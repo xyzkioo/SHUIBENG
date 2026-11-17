@@ -1,0 +1,34 @@
+{
+  "gains_readback": [
+    5.0,
+    0.05000000074505806,
+    0.0
+  ],
+  "controller": "counts/50ms; u=Kp*e+Ki*sum(e)+Kd*delta(e)",
+  "sample_time_s": 0.05,
+  "setpoint_rpm": 500,
+  "allowed_steady_rpm": [
+    475,
+    525
+  ],
+  "maximum_peak_rpm": 525,
+  "gains_changed": false,
+  "timestamp_basis": "nominal MCU 50ms period; host times preserved separately",
+  "prestep_actual_mean_rpm": 300.8264465332031,
+  "source": "measured_hardware",
+  "samples": 500,
+  "actual_mean_rpm": 471.69420654296874,
+  "tail_min_rpm": 446.281005859375,
+  "tail_max_rpm": 483.4710693359375,
+  "step_peak_rpm": 483.4710693359375,
+  "tail_mean_abs_error_rpm": 28.30579345703125,
+  "tail_pwm_mean": 337.51881057739257,
+  "accepted": false,
+  "decision": "needs further investigation",
+  "final_target_rpm": 500.0,
+  "final_gains_readback": [
+    5.0,
+    0.05000000074505806,
+    0.0
+  ]
+}

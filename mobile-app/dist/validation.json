@@ -1,0 +1,22 @@
+{
+  "apk": "PumpControl.apk",
+  "bytes": 33245,
+  "sha256": "11bdc7f55336b4effd27d13212fcc6486d5c024369cbee815726a245f7b4933f",
+  "package": "cn.pump.control",
+  "version": "1.0",
+  "min_android_api": 23,
+  "target_android_api": 35,
+  "validation": {
+    "protocol_assertions": 34,
+    "java_compilation": true,
+    "d8_dex035": true,
+    "zip_integrity": true,
+    "zipalign": true,
+    "apk_signatures": [
+      "v1",
+      "v2",
+      "v3"
+    ]
+  },
+  "phone_ui_ble_end_to_end_tested": false
+}

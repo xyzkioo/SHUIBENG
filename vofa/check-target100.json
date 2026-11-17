@@ -1,0 +1,10 @@
+{
+  "samples": 802,
+  "window_s": 10,
+  "target": 100.0,
+  "actual_mean": 99.87064676616916,
+  "actual_min": 99.0,
+  "actual_max": 101.0,
+  "pwm_mean": 836.5032460986085,
+  "pwm_max": 837.9000244140625
+}
